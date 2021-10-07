@@ -1,6 +1,7 @@
 #include<stdio.h>
 //aj
 #include<stdlib.h>
+//aj
 void main()
 {
   char c,loc[100];
