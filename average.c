@@ -1,6 +1,7 @@
 #include<stdio.h>
 //include
 #include<stdlib.h>
+//hello
 void main(int n,char *a[])
 {
   float avg=0;
