@@ -9,7 +9,7 @@ void main()
   typedef struct
   {
     long regno;
-    char name[26];
+    char name_of[26];
     int m1;
     int m2;
     int m3;
