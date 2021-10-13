@@ -13,7 +13,7 @@ else if(d>0)
 {
 r1=(-b+sqrt(d))/(2*a);
 r2=(-b+sqrt(d))/(2*a);
-printf("The roots are real and unequal . \n");
+printf("The roots are real and unequal. \n");
 printf("The roots are %g and %g \n",r1,r2);
 }
 else if(d==0)
