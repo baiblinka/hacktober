@@ -17,7 +17,7 @@ int main() {
                     smallest = i;
             }
             value = arr[smallest];
-            for(int i = smallest; i < len; i++) {
+            for(int i = smallest; i < len; ++i) {
                 arr[i] = arr[i+1];
             }
             len--;
