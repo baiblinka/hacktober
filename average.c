@@ -23,7 +23,7 @@ void main(int n,char *a[])
     }
     
     avg=avg/(n-1);
-    printf("The average is %f\n",avg);
+    printf("The average = %f\n",avg);
   }
 }
 //hello
