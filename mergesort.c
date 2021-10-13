@@ -27,7 +27,7 @@ void main()
     c[i+j]=a[i];
   for(;j<bno;j++)
     c[i+j]=b[j];
-  printf("The newly merged array is:\n");
+  printf("The newly merged array = \n");
   for(int q=0;q<i+j;q++)
     printf("%d\t",c[q]);
 }
