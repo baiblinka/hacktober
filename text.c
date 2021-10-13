@@ -10,7 +10,7 @@ void main()
   int lower[26]={0},upper[26]={0},digit[10]={0};
   FILE *ptr=fopen(loc,"r");
   if(ptr==NULL)
-    printf("No file found.\na");
+    printf("File not found.\na");
   printf("1");
   do
   {
